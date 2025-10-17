@@ -1,95 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ashwin Lara Lewis</h1>
-<h3 align="center">Full Stack Developer & Data Analyst | M.Sc. Data Science Student</h3>
+<h1 align="left">Hi 👋, I'm Ashwin Lara Lewis</h1>
+
+<p align="left">
+- 🌱 I’m currently expanding my expertise in Full Stack Development, Data Analysis, and AI/ML projects.
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinlaralewis&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinlaralewis" /> </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinlaralewis&show_icons=true&locale=en&layout=compact" alt="ashwinlaralewis" /></p> 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/lewisashwinlara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashwin Lara Lewis" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/ig._lara___" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig._lara___" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ashwinlaralewis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="60" width="60" /></a>
+</p>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
+</p>
+
+<h3 align="left">Frameworks & Libraries:</h3>
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>    
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/> </a>
+</p>
+
+<h3 align="left">Tools & Platforms:</h3>
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/> </a>
+</p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=ashwinlaralewis&show_icons=true&locale=en" alt="Ashwin Lara Lewis stats" /></p>
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,html,css,javascript,aws" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs,go,rust" height="60" />
-</div>
-
----
-
-### 👨‍💻 About Me
-<div align="center">
-
-Hi! I'm **Ashwin Lara Lewis** — a passionate **Full Stack Developer & Data Analyst** 🚀  
-I love building interactive apps, solving real-world problems with data, and leveling up my coding skills every day! 💻✨  
-
----
-
-### 💡 What I Do
-- 💻 **Full Stack Development**: MERN Stack, Next.js, Tailwind CSS  
-- 🤖 **Machine Learning & AI**: Deep Learning (CNN), Machine Learning, R Programming  
-- 📊 **Data Analysis**: Python, SQL, Power BI, R  
-- ☁️ **Cloud Computing**: AWS (EC2, S3)  
-- 🔍 **Focus**: Clean Code | High Performance | Scalable Solutions  
-
----
-
-### ⚡ Quick Stats
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-70%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-80%25-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-
----
-
-### 🎮 Level Up!
-<div align="center">
-  <img src="https://img.shields.io/badge/Level-15-blue?style=for-the-badge&logo=gamepad" />
-  <img src="https://img.shields.io/badge/Quests-42-green?style=for-the-badge&logo=check-circle" />
-  <img src="https://img.shields.io/badge/Coffee_Consumed-300☕-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coding_XP-1500💻-red?style=for-the-badge" />
-</div>
-
-</div>
-
----
-
-### 🌐 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/lewisashwinlara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="https://instagram.com/ig._lara___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
-  <a href="https://github.com/ashwinlaralewis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwinlaralewis&theme=dracula&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophy" />
-</div>
-
----
-
-### 🖤 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🔭 Currently Working On
-- Building **Full Stack Web Applications** using Next.js, React, and Node.js  
-- Developing **AI/ML projects** with Python and Deep Learning  
-- Learning **Advanced Cloud Services** on AWS
-
----
-
-### ⚡ Fun Fact
-- Coffee fuels my coding ☕  
-- I love exploring new technologies and contributing to open-source projects 🌍
+### 🎉 Fun GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="coding gif" width="400" />
+</p>
