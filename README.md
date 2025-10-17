@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Lara Lewis</h1>
+<h1 align="center">🎮 Ashwin Lara Lewis — Leveling Up Daily!</h1>
 <h3 align="center">Full Stack Developer & Data Analyst | M.Sc. Data Science Student</h3>
 
 ---
@@ -11,27 +11,36 @@
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate **Full Stack Developer and Data Analyst** with experience in building web applications, data analysis, and machine learning solutions.  
-I love turning data into insights and creating interactive, scalable applications.
+### 🕹️ About Me
+I’m **Ashwin Lara Lewis**, a developer and data analyst leveling up in the tech world!  
+I enjoy building full-stack web apps, exploring AI/ML, and collecting **tech achievements** along the way.
 
-- 💻 **Full Stack Development**: MERN Stack, Next.js, Tailwind CSS  
-- 🤖 **Machine Learning & AI**: Deep Learning (CNN), Machine Learning, R Programming  
-- 📊 **Data Analysis**: Python, SQL, Power BI, R  
-- ☁️ **Cloud Computing**: AWS (EC2, S3)  
-- 🔍 Strong focus on clean code, performance, and usability
+- 💻 Full Stack: MERN, Next.js, Tailwind  
+- 🤖 Machine Learning & AI: Python, CNNs, R  
+- 📊 Data Analysis: SQL, Power BI, R Programming  
+- ☁️ Cloud: AWS (EC2, S3)  
 
 ---
 
-### 🧰 My Tech Stack
+### 🎯 My Skills (XP Levels)
+| Skill | Level |
+|-------|-------|
+| Python | ⭐⭐⭐⭐⭐ 90% |
+| JavaScript | ⭐⭐⭐⭐ 80% |
+| React.js | ⭐⭐⭐⭐⭐ 90% |
+| Node.js | ⭐⭐⭐⭐ 85% |
+| MongoDB | ⭐⭐⭐⭐ 80% |
+| R Programming | ⭐⭐⭐⭐ 75% |
+| AWS | ⭐⭐⭐ 70% |
 
-**Programming Languages:** Python, C, C++, JavaScript, TypeScript, R  
+---
 
-**Web Development:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Tailwind CSS  
-
-**Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, R  
-
-**Cloud & Tools:** AWS, Git, VS Code, MS Office (Word, PowerPoint, Excel)
+### 🏆 Achievements & Badges
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=radical&column=-1&row=1&margin-w=10&margin-h=10" height="120" alt="trophies" />
+  <img src="https://img.shields.io/badge/Level-15-blue?style=for-the-badge&logo=gamepad" height="28" />
+  <img src="https://img.shields.io/badge/Quest%20Completed-42-green?style=for-the-badge&logo=check-circle" height="28" />
+</div>
 
 ---
 
@@ -50,30 +59,15 @@ I love turning data into insights and creating interactive, scalable application
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ashwinlaralewis&theme=dracula&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophy" />
-</div>
+### ⚡ Current Quests
+- Completing **Full Stack Projects** using Next.js and React  
+- Building **AI/ML models** with Python and R  
+- Leveling up **AWS Cloud skills**  
+- Contributing to **open-source adventures**  
 
 ---
 
-### 🖤 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ashwinlaralewis/ashwinlaralewis/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🔭 Currently Working On
-- Building **Full Stack Web Applications** using Next.js, React, and Node.js  
-- Developing **AI/ML projects** with Python and Deep Learning  
-- Learning **Advanced Cloud Services** on AWS
-
----
-
-### ⚡ Fun Fact
-- Coffee fuels my coding ☕  
-- I love exploring new technologies and contributing to open-source projects 🌍
+### 🎲 Fun Stats
+- ☕ Coffee Consumed: 300+ cups  
+- 🕹️ Coding Hours: 1500+ XP  
+- 🌍 Countries Explored: 2  
