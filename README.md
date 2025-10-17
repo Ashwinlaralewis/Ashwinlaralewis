@@ -53,7 +53,6 @@
 
 ---
 
-### 🎉 Fun GIF
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="coding gif" width="400" />
 </p>
