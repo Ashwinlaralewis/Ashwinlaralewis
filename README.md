@@ -51,7 +51,9 @@
 
 ---
 
-### 🎉 Fun GIF
+---
+
+### 🎮 Gamer Mode Activated
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="coding gif" width="400" />
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="gaming coding gif" width="400" />
 </p>
