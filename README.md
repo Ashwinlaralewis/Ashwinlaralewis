@@ -53,7 +53,10 @@
 
 ---
 
-### 🎮 Gamer Mode Activated
+---
+
+### 💻 Coding Mode Activated
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="gaming coding gif" width="400" />
+  <img src="https://media.giphy.com/media/3o7TKPzO2nGQk8xdzO/giphy.gif" alt="coding animation" width="400" />
 </p>
+
