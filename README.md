@@ -1,73 +1,52 @@
-<h1 align="center">🎮 Ashwin Lara Lewis — Leveling Up Daily!</h1>
-<h3 align="center">Full Stack Developer & Data Analyst | M.Sc. Data Science Student</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
----
+###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,html,css,javascript,aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,nestjs,go,rust" height="60" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+###
 
-### 🕹️ About Me
-I’m **Ashwin Lara Lewis**, a developer and data analyst leveling up in the tech world!  
-I enjoy building full-stack web apps, exploring AI/ML, and collecting **tech achievements** along the way.
-
-- 💻 Full Stack: MERN, Next.js, Tailwind  
-- 🤖 Machine Learning & AI: Python, CNNs, R  
-- 📊 Data Analysis: SQL, Power BI, R Programming  
-- ☁️ Cloud: AWS (EC2, S3)  
-
----
-
-### 🎯 My Skills (XP Levels)
-| Skill | Level |
-|-------|-------|
-| Python | ⭐⭐⭐⭐⭐ 90% |
-| JavaScript | ⭐⭐⭐⭐ 80% |
-| React.js | ⭐⭐⭐⭐⭐ 90% |
-| Node.js | ⭐⭐⭐⭐ 85% |
-| MongoDB | ⭐⭐⭐⭐ 80% |
-| R Programming | ⭐⭐⭐⭐ 75% |
-| AWS | ⭐⭐⭐ 70% |
-
----
-
-### 🏆 Achievements & Badges
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=radical&column=-1&row=1&margin-w=10&margin-h=10" height="120" alt="trophies" />
-  <img src="https://img.shields.io/badge/Level-15-blue?style=for-the-badge&logo=gamepad" height="28" />
-  <img src="https://img.shields.io/badge/Quest%20Completed-42-green?style=for-the-badge&logo=check-circle" height="28" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
+###
 
-### 🌐 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/lewisashwinlara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="https://instagram.com/ig._lara___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
-  <a href="https://github.com/ashwinlaralewis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-### ⚡ Current Quests
-- Completing **Full Stack Projects** using Next.js and React  
-- Building **AI/ML models** with Python and R  
-- Leveling up **AWS Cloud skills**  
-- Contributing to **open-source adventures**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### 🎲 Fun Stats
-- ☕ Coffee Consumed: 300+ cups  
-- 🕹️ Coding Hours: 1500+ XP  
-- 🌍 Countries Explored: 2  
+###
