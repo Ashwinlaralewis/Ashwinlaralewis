@@ -12,26 +12,42 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate **Full Stack Developer and Data Analyst** with experience in building web applications, data analysis, and machine learning solutions.  
-I love turning data into insights and creating interactive, scalable applications.
+<div align="center">
 
+Hi! I'm **Ashwin Lara Lewis** — a passionate **Full Stack Developer & Data Analyst** 🚀  
+I love building interactive apps, solving real-world problems with data, and leveling up my coding skills every day! 💻✨  
+
+---
+
+### 💡 What I Do
 - 💻 **Full Stack Development**: MERN Stack, Next.js, Tailwind CSS  
 - 🤖 **Machine Learning & AI**: Deep Learning (CNN), Machine Learning, R Programming  
 - 📊 **Data Analysis**: Python, SQL, Power BI, R  
 - ☁️ **Cloud Computing**: AWS (EC2, S3)  
-- 🔍 Strong focus on clean code, performance, and usability
+- 🔍 **Focus**: Clean Code | High Performance | Scalable Solutions  
 
 ---
 
-### 🧰 My Tech Stack
+### ⚡ Quick Stats
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-85%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-70%25-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-80%25-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
 
-**Programming Languages:** Python, C, C++, JavaScript, TypeScript, R  
+---
 
-**Web Development:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Tailwind CSS  
+### 🎮 Level Up!
+<div align="center">
+  <img src="https://img.shields.io/badge/Level-15-blue?style=for-the-badge&logo=gamepad" />
+  <img src="https://img.shields.io/badge/Quests-42-green?style=for-the-badge&logo=check-circle" />
+  <img src="https://img.shields.io/badge/Coffee_Consumed-300☕-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coding_XP-1500💻-red?style=for-the-badge" />
+</div>
 
-**Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI, R  
-
-**Cloud & Tools:** AWS, Git, VS Code, MS Office (Word, PowerPoint, Excel)
+</div>
 
 ---
 
@@ -53,7 +69,7 @@ I love turning data into insights and creating interactive, scalable application
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ashwinlaralewis&theme=dracula&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophy" />
 </div>
 
 ---
