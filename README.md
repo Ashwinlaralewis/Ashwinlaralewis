@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto">
 <!-- GMAIL -->
-<a href="mailto:ashwinlaralewis@example.com">
+<a href="mailto:lewisashwinlara@gmail.com">
 <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="mail" style="max-width: 100%;height:60px;">
 </a>&nbsp;&nbsp;
 <!-- LINKEDIN -->
@@ -28,7 +28,7 @@
 ### 💻 About Me
 I am a **MSc Data Science student** 🇩🇪 currently living in Germany.  
 - 🌱 Expanding my expertise in Full Stack Development, Data Analysis, and AI/ML projects.  
-- 📫 Reach me via [Email](mailto:ashwinlaralewis@example.com) or [LinkedIn](https://www.linkedin.com/in/lewisashwinlara/)  
+- 📫 Reach me via [Email](mailto:lewisashwinlara@gmail.com) or [LinkedIn](https://www.linkedin.com/in/lewisashwinlara/)  
 - 🎮 Passionate about coding, data, and building meaningful projects.  
 
 ---
@@ -42,7 +42,7 @@ I am a **MSc Data Science student** 🇩🇪 currently living in Germany.
   <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="50px">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/452234/java.svg" height="50px">&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="50px">
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="50px">&nbsp;&nbsp;
 </p>
 
 ---
