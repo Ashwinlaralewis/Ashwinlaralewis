@@ -1,20 +1,26 @@
-<div align="center">👋 Hello there, fellow <developers/>!</div>
-<div id="header" align="center" style="display:flex;justify-content:center;align-items:center;margin-bottom:50px;margin-top:50px;"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUzNTAxNmU0MjBmNjg1MmMyNTEzODc5YjRmMTQ5YjdiNzg5YWFjMCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" height="600" width="100%"> </div> <p align="center"> <!-- GMAIL --> <a href="mailto:lewisashwinlara@gmail.com"> <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="60"> </a>&nbsp;&nbsp; <!-- LINKEDIN --> <a href="https://www.linkedin.com/in/lewisashwinlara/" target="_blank"> <img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="60"> </a>&nbsp;&nbsp; <!-- INSTAGRAM --> <a href="https://instagram.com/ig._lara___" target="_blank"> <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="60"> </a>&nbsp;&nbsp; <!-- GITHUB --> <a href="https://github.com/ashwinlaralewis" target="_blank"> <img src="https://www.svgrepo.com/show/312259/github.svg" height="60"> </a> </p>
-💻 About Me
+🌟 Hi, I’m Ashwin!
+<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" /> </div> <div align="center"> <a href="mailto:lewisashwinlara@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a> <a href="https://www.linkedin.com/in/lewisashwinlara/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a> <a href="https://github.com/ashwinlaralewis"><img src="https://skillicons.dev/icons?i=github" height="55"/></a> <a href="https://instagram.com/ig._lara___"><img src="https://skillicons.dev/icons?i=instagram" height="55"/></a> </div>
+🚀 About Me
 
-I am an MSc Data Science student 🇩🇪 living in Germany.
+I'm an MSc Data Science student based in Germany 🇩🇪, passionate about:
+✨ Data Analytics & Visualization
+✨ Full-Stack Development
+✨ Machine Learning & AI
+✨ Beautiful UI + Useful Products
 
-🌱 Expanding my skills in Full Stack Development, Data Analytics, and AI/ML.
+I love turning ideas into reality using code + data + creativity.
 
-📫 Reach me via Email or LinkedIn anytime!
-
-🎮 Passionate about coding, dashboards, and building meaningful tech solutions.
-
-🛠️ Languages
-<p align="center"> <img src="https://www.svgrepo.com/show/374016/python.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50">&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/349330/css3.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/452234/java.svg" height="50">&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="50">&nbsp;&nbsp; </p>
+💻 Tech Stack
+🧠 Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,r" height="50" /> </div>
 ⚙ Frameworks & Libraries
-<p align="center"> <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/452075/node-js.svg" height="50">&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="50">&nbsp;&nbsp; </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql" height="50" /> </div>
 🔧 Tools & Platforms
-<p align="center"> <img src="https://www.svgrepo.com/show/373623/git.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/312259/github.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/448222/figma.svg" height="50">&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" height="50">&nbsp;&nbsp; <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50">&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/354022/power-bi.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/373589/excel.svg" height="50">&nbsp;&nbsp; <img src="https://www.svgrepo.com/show/374039/powerquery.svg" height="50">&nbsp;&nbsp; </p>
-🔥 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinlaralewis&theme=radical&layout=compact" height="170">&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=ashwinlaralewis&show_icons=true&theme=radical" height="170"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinlaralewis&theme=radical"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis"> </p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,ps" height="50" /> <br><br> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="55" /> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" height="55" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Power_Query_logo.png" height="55" /> </div>
+📈 GitHub Performance
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ashwinlaralewis&show_icons=true&theme=tokyonight" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinlaralewis&layout=compact&theme=tokyonight" height="170" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinlaralewis&theme=tokyonight" /> </div>
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashwinlaralewis&theme=gruvbox&margin-w=10" /> </div>
+🎯 Let’s Connect
+
+I’m always happy to collaborate, chat about ideas, or build cool things together.
